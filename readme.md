@@ -1,0 +1,2 @@
+本项目用来模拟人来自动化操作电脑行为
+使用到的包有：pywinauto，pyuserinput等
